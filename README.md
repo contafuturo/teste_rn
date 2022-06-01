@@ -26,8 +26,8 @@ Então vamos ao desafio:
 * Você terminou a tempo? Ótimo! Nesta etapa você pode adcionar alguma funcionalidade que você ache importante.
 
 ##### Fim
-* Crie um repo em seu gitgub pessoal para subir a resolução do desafio
-* Faça o commit em até 3 horas depois de receber as instruções. Nem um minuto a mais. 
+* Crie um repositório público em seu github pessoal para subir a resolução do desafio e responda o email com o link do repositório
+* Faça o commit em até 3 horas depois de receber as instruções. Nem um minuto a mais.
 
 
 ##### OBS!!!!!!
