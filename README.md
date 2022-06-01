@@ -27,7 +27,7 @@ Então vamos ao desafio:
 
 ##### Fim
 * Crie um repo em seu gitgub pessoal para subir a resolução do desafio
-* Faça o commit em até 4 horas depois de receber as instruções. Nem um minuto a mais. 
+* Faça o commit em até 3 horas depois de receber as instruções. Nem um minuto a mais. 
 
 
 ##### OBS!!!!!!
