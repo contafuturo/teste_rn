@@ -7,6 +7,7 @@ Então vamos ao desafio:
 1. Faça o máximo que puder e não se apresse para terminar tudo.
 2. Dê o seu melhor.
 3. Dica: Tire um tempo para ler todas as etapas antes de começar.
+4. O dica do ponto 3 é realmente boa! hahaha
 
 
 #### Crie um projeto React ou React Native e complete as etápas a seguir:
@@ -25,7 +26,12 @@ Então vamos ao desafio:
 * Você terminou a tempo? Ótimo! Nesta etapa você pode adcionar alguma funcionalidade que você ache importante.
 
 ##### Fim
-* Faça o commit em até 3 horas depois de receber as instruções. Nem um minuto a mais. 
+* Crie um repo em seu gitgub pessoal para subir a resolução do desafio
+* Faça o commit em até 4 horas depois de receber as instruções. Nem um minuto a mais. 
+
+
+##### OBS!!!!!!
+* Não se preocupe caso não tenha conseguido finalizar todas as etapas, não é isso que estamos avaliando! :D
 
 ##### Por último porem não menos importante
 * Estamos em busca de pessoas responsaveis. Porfavor não compartilhe esse teste ou informações sobre ele. 
